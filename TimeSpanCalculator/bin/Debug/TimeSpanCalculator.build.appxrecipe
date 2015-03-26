@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AKSH-PC</Machine>
+    <WindowsUser>Aksh</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b3602996-f45f-4b79-9ae5-50a1d4243fbf</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Aksh\documents\visual studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Aksh\documents\visual studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Aksh\documents\visual studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\bin\Debug\TimeSpanCalculator.exe">
+      <PackagePath>TimeSpanCalculator.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aksh\documents\visual studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\Assets\44.png">
+      <PackagePath>Assets\44.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aksh\documents\visual studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\Assets\icon.PNG">
+      <PackagePath>Assets\icon.PNG</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aksh\documents\visual studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aksh\documents\visual studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\Assets\71.jpg">
+      <PackagePath>Assets\71.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aksh\documents\visual studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\Assets\icon 310.jpg">
+      <PackagePath>Assets\icon 310.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aksh\documents\visual studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aksh\documents\visual studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aksh\documents\visual studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\bin\Debug\TimeSpanCalculator.xr.xml">
+      <PackagePath>TimeSpanCalculator.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aksh\documents\visual studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

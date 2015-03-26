@@ -1,0 +1,16 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\obj\Release\split.pri"			"resources.pri"
+"C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\obj\Release\PackageLayout\TimeSpanCalculator.xr.xml"			"TimeSpanCalculator.xr.xml"
+"C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\obj\Release\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\obj\Release\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\obj\Release\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-240.png"			"Assets\Square71x71Logo.scale-240.png"
+"C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\obj\Release\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\obj\Release\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\obj\Release\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"
+"C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\obj\Release\PackageLayout\Assets\icon.PNG"			"Assets\icon.PNG"
+"C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\obj\Release\PackageLayout\App.xbf"			"App.xbf"

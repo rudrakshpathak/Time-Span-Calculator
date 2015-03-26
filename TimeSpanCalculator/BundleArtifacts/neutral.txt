@@ -1,0 +1,3 @@
+MainPackage=C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\bin\Release\TimeSpanCalculator_1.1.0.0_Bundle\TimeSpanCalculator_1.1.0.0_AnyCPU.appx
+SymbolPackage=C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\AppPackages\TimeSpanCalculator_1.1.0.0_Test\TimeSpanCalculator_1.1.0.0_AnyCPU.appxsym
+ResourcePack=C:\Users\Aksh\Documents\Visual Studio 2013\Projects\TimeSpanCalculator\TimeSpanCalculator\bin\Release\TimeSpanCalculator_1.1.0.0_Bundle\TimeSpanCalculator_1.1.0.0_scale-100.appx
